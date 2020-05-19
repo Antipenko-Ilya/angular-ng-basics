@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-basics"
+    }
+  },
+  "defaultProject": "ng-basics",
+  "cli": {
+    "analytics": false
+  }
 }
